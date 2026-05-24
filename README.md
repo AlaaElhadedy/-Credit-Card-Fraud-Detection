@@ -1,7 +1,7 @@
 # 💳 Credit Card Fraud Detection
 
 ## 🔗 Live Dashboard
-👉 [[Open Dashboard](https://fraud-dashboard-ten.vercel.app)](https://fraud-dashboard-13j7ge2la-alaaelhadedys-projects.vercel.app)
+👉 (https://fraud-dashboard-ten.vercel.app)](https://fraud-dashboard-13j7ge2la-alaaelhadedys-projects.vercel.app)
 
 ## 📌 About
 End-to-End Data Science project to detect fraudulent credit card transactions using Machine Learning on a dataset of 284,807 real transactions.
